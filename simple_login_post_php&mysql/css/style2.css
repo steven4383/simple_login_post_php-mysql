@@ -1,0 +1,40 @@
+p{
+  font-family: Myriad Pro;
+  font-size: 50px;
+}
+textarea
+{
+
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #00e0d8;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+ input[type=submit]  {
+  background-color: #00e0d8;
+  border: none;
+  color:black;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.p1
+{
+font-family: Myriad Pro;
+font-size: 20px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3.5rem;            /* Footer height */
+}
+body {
+  overflow-x:hidden;/* Hide scrollbars */
+}
